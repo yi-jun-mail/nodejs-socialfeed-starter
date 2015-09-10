@@ -1,6 +1,6 @@
 ## Social Feed
 
-This is a aggregated Social Feed app for consuming Facebook and Twitter in a single timeline.
+This is a aggregated Social Feed app for consuming Twitter and Facebook in a single timeline.
 
 Time spent: `<Number of hours spent>`
 
@@ -8,7 +8,7 @@ Time spent: `<Number of hours spent>`
 
 #### Required
 
-- [ ] User can sign in and connect to Facebook and Twitter using `passport`.
+- [ ] User can sign in and connect to Twitter using `passport`.
 - [ ] User can view the 20 latest entries on an aggregated timeline.
 - [ ] Timeline entries include user profile picture, username, content, origin social network identifier and timestamp.
 - [ ] In the timeline, user can like and unlike posts.
@@ -19,9 +19,13 @@ Time spent: `<Number of hours spent>`
 
 #### Optional
 
+- [ ] User can sign in and connect to Facebook using `passport`.
+- [ ] User can view Facebook entries in the timeline
+- [ ] User can view "compose", "like", "unlike", "reply" and "share" Facebook entries
+- [ ] User can "compose", "like", "unlike", "reply" and "share" to Facebook
 - [ ] The signed in user will be persisted across server restarts
 - [ ] When composing, user can select to which networks to post.
-- [ ] User can click a post and view it on a separate page with controls to share, like, and reply.
+- [ ] User can click an entry and view it on a separate page with controls to share, like, and reply.
 - [ ] User should be able to unshare their posts.
 - [ ] User should be able to delete their posts.
 - [ ] Replies should be prefixed with the username and link to the conversation thread.
