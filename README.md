@@ -21,8 +21,7 @@ Time spent: `<Number of hours spent>`
 
 - [ ] User can sign in and connect to Facebook using `passport`.
 - [ ] User can view Facebook entries in the timeline
-- [ ] User can view "compose", "like", "unlike", "reply" and "share" Facebook entries
-- [ ] User can "compose", "like", "unlike", "reply" and "share" to Facebook
+- [ ] User can "compose", "like", "unlike", "reply" and "share" Facebook entries
 - [ ] The signed in user will be persisted across server restarts
 - [ ] When composing, user can select to which networks to post.
 - [ ] User can click an entry and view it on a separate page with controls to share, like, and reply.
